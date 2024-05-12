@@ -1,3 +1,5 @@
+<div align=center><img src="https://github.com/MARYT-Studio/GoldenFinger/blob/master/logo.png" /></div>
+
 # GoldenFinger
 
 ## Overview
